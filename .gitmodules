@@ -9,7 +9,7 @@
 	url = https://github.com/jpd002/Play--CodeGen.git
 [submodule "Play"]
 	path = Play
-	url = https://github.com/jpd002/Play-.git
+	url = https://github.com/libretro/Play-
 [submodule "Nuanceur"]
 	path = Nuanceur
 	url = https://github.com/jpd002/Nuanceur.git
